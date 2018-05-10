@@ -6,4 +6,3 @@ b = np.arange(6).reshape(3,2)
 c = np.dot(a,b)
 
 print(c)
-print("test2")
