@@ -1,0 +1,23 @@
+[
+  "test_calculator.py::test_add[9-8-17]",
+  "test_calculator.py::test_add[7-6-13]",
+  "test_calculator.py::test_add[5-4-9]",
+  "test_calculator.py::test_add[3-2-5]",
+  "test_calculator.py::test_add[1-0-1]",
+  "test_calculator.py::test_sub[9-8-1]",
+  "test_calculator.py::test_sub[7-6-1]",
+  "test_calculator.py::test_sub[5-4-1]",
+  "test_calculator.py::test_sub[3-2-1]",
+  "test_calculator.py::test_sub[1-0-1]",
+  "test_calculator.py::test_mul[9-8-72]",
+  "test_calculator.py::test_mul[7-6-42]",
+  "test_calculator.py::test_mul[5-4-20]",
+  "test_calculator.py::test_mul[3-2-6]",
+  "test_calculator.py::test_mul[1-0-0]",
+  "test_calculator.py::test_div[9-3-3]",
+  "test_calculator.py::test_div[8-4-2]",
+  "test_calculator.py::test_div[6-2-3]",
+  "test_calculator.py::test_div[4-2-2]",
+  "test_calculator.py::test_div[0-1-0]",
+  "test_calculator.py::test_div_error"
+]
