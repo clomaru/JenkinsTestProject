@@ -1,3 +1,5 @@
+import numpy as np
+
 def addFunc(a, b):
     return a + b
 
