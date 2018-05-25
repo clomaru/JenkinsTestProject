@@ -1,12 +1,8 @@
-class Calculator():
-    def add(self, a, b):
-        return a + b
+import numpy as np
+import matplotlib.pyplot as plt
 
-    def sub(self, a, b):
-        return a - b
+def addFunc(a, b):
+    return a + b
 
-    def mul(self, a, b):
-        return a * b
 
-    def div(self, a, b):
-        return a / b
+print(addFunc(1,2))

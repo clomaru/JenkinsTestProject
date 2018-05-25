@@ -1,5 +1,5 @@
 import pytest
-from calculator import Calculator
+from main import Calculator
 
 def pytest_funcarg__calc():
     return Calculator()
