@@ -7,7 +7,7 @@ class Test(unittest.TestCase):
 
         val1 = 2
         val2 = 3
-        expected = 6
+        expected = 5
         actual = calculator.addFunc(val1, val2)
         self.assertEqual(expected, actual)
 
